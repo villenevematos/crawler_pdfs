@@ -1,6 +1,6 @@
 ## Projeto 5: Crawler de PDFs (A Solução Completa)
 
-* **O que ele faz?** <br>Este é o meu primeiro projeto de ponta a ponta, inspirado em uma demanda real de mercado. O script combina Web Scraping e Download de arquivos em uma única ferramenta. Ele varre uma página web, identifica todos os links que apontam para arquivos `.pdf` e, em seguida, baixa todos eles automaticamente para uma pasta de destino.
+* **O que ele faz?** <br>O script combina Web Scraping e Download de arquivos em uma única ferramenta. Ele varre uma página web, identifica todos os links que apontam para arquivos `.pdf` e, em seguida, baixa todos eles automaticamente para uma pasta de destino.
 
 * **Como Usar:**<br>
       1- Instale as bibliotecas: `pip install requests beautifulsoup4`<br>
